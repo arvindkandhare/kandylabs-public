@@ -6,6 +6,7 @@ Website: https://arvindkandhare.github.io/kandylabs-public/
 
 ## Products
 
+- [Kin Stream Deck](kin-stream-deck/) — Windows companion and Android public test information
 - Kin Teen
 - Kin Elderly
 - Kin Kids
